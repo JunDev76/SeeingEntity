@@ -18,8 +18,6 @@
   \ \__,_|\____/ \__,_|_| |_|     |_|\_\_|  \_\
    \____/
 
-This program was produced by CrossTeam and cannot be reproduced, distributed or used without permission.
-
 Development Team
  - Jun-KR (https://github.com/Jun-KR)
 
